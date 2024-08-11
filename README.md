@@ -1,4 +1,4 @@
-# News-cralwer-summarization-image_generator bot
+# News Summarization and_Image Generation
 
 ## How it works
 
