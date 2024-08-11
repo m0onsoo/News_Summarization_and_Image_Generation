@@ -1,4 +1,4 @@
-# News Summarization and_Image Generation
+# News Summarization and Image Generation
 
 ## How it works
 
